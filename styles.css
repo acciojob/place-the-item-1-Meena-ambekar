@@ -12,15 +12,19 @@
 	height:100px;
 	width:100px;
 	order:1;
+	font-size:28px;
 }
 #blue{
 	background-color:blue;
 	height:100px;
 	width:100px;
 	order:2;
-}#green{
+	font-size:28px;
+}
+#green{
 	background-color:green;
 	height:100px;
 	width:100px;
 	order:0;
+	font-size:28px;
 }
